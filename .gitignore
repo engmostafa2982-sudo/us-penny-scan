@@ -1,0 +1,8 @@
+.env
+cache/
+parts/
+logs/
+__pycache__/
+*.pyc
+scored_ranked.csv
+scan_full.log
